@@ -1,0 +1,28 @@
+{
+  "name": "leon-exceljs-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwangpu/leon-exceljs-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liwangpu/leon-exceljs-learn/issues"
+  },
+  "homepage": "https://github.com/liwangpu/leon-exceljs-learn#readme",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
